@@ -1,0 +1,59 @@
+﻿{"frames": {
+
+"Bitmap2":
+{
+	"frame": {"x":0,"y":0,"w":300,"h":191},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":191},
+	"sourceSize": {"w":300,"h":191}
+},
+"CachedBmp_36":
+{
+	"frame": {"x":669,"y":0,"w":336,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":336,"h":109},
+	"sourceSize": {"w":336,"h":109}
+},
+"CachedBmp_37":
+{
+	"frame": {"x":0,"y":193,"w":209,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":209,"h":109},
+	"sourceSize": {"w":209,"h":109}
+},
+"CachedBmp_38":
+{
+	"frame": {"x":302,"y":111,"w":334,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":334,"h":109},
+	"sourceSize": {"w":334,"h":109}
+},
+"CachedBmp_39":
+{
+	"frame": {"x":302,"y":0,"w":365,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":365,"h":109},
+	"sourceSize": {"w":365,"h":109}
+},
+"CachedBmp_40":
+{
+	"frame": {"x":638,"y":111,"w":332,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":332,"h":109},
+	"sourceSize": {"w":332,"h":109}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "24.0.0.305",
+	"image": "Servicios.html_atlas_2.png",
+	"format": "undefined",
+	"size": {"w":1024,"h":512},
+	"scale": "1"
+}
+}
